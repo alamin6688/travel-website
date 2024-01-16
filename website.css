@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;700;800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Mulish', sans-serif;
+}
+
+/* header styles */
+.nav-container{
+    width: 1170px;
+    margin: 0 auto;
+    margin-top: 50px;
+    display: flex;
+}
+.header-title{
+    display: flex;
+    width: 50%;
+}
+.header-title > img{
+    width: 48px;
+    height: 56px;
+}
+.header-title-1{
+    color: #131318;
+    font-family: Mulish;
+    font-size: 2.25rem;
+    font-weight: 800;
+}
+.header-title-2{
+    color: #FF5400;
+    font-size: 2.25rem;
+    font-weight: 800;
+}
+.header-nav{
+    display: flex;
+    align-items: center;
+}
+.header-nav-home{
+    color: #FF5400;
+    font-size: 1.125rem;
+    font-weight: 700;
+}
+.header-nav ul{
+    display: flex;
+    justify-content: center;
+    gap: 44px;
+    list-style: none;
+    color: #424247;
+    text-align: center;
+    font-size: 1.125rem;
+    font-weight: 400;
+}
+.header-nav li > a{
+    text-decoration: none;
+}
+
+
+/* banner section styles */
+.banner-container{
+    width: 1170px;
+    height: 500px;
+    margin: 50px auto 0;
+    border-radius: 16px;
+    background: linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%),url('Images/Group\ 13\ \(1\)\ \(1\).png');
+}
+.banner-container h2{
+    color: #FFF;
+    font-size: 4rem;
+    font-weight: 800;
+    text-align: center;
+    padding-top: 100px;
+}
+.banner-container p{
+    
+    color: #FFF;
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 26px;
+}
+.banner-search-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 45px;
+}
+.banner-search-bar form{
+    display: inline-flex;
+    padding: 16px;
+    align-items: flex-start;
+    gap: 24px;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.30);
+    margin-bottom: 100px;
+}
+.banner-search-bar-input{
+    padding: 16px;
+    border-radius: 8px;
+    background: #FFF;
+    width: 174px;
+    border-style: none;
+}
+.banner-search-bar img{
+    width: 24px;
+    height: 24px;
+}
+
+/* Popular tour styles */
+.popular-tour-container{
+    width: 1170px;
+    margin: 0 auto;
+    margin-top: 100px;
+    display: flex;
+    gap: 50px;
+}
+.tour-container-01 h2{
+    color: #131318;
+    text-align: left;
+    font-size: 2.5rem;
+    font-weight: 800;
+}
+.tour-container-01-description-primary{
+    margin-top: 20px;
+    color: rgba(19, 19, 24, 0.70);
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+.tour-container-01-ul{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-left: 30px;
+    color: rgba(19, 19, 24, 0.70);
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+.tour-container-01-ul li{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.popular-tour-container-btn{
+    color: #FFF;
+    text-align: center;
+    padding: 14px 34px;
+    font-size: 1.25rem;
+    font-weight: 800;
+    border-style: none;
+    border-radius: 8px;
+    background: #FF5400;
+    margin-top: 25px;
+}
+.tour-container-02 img{
+    width: 540px;
+    height: 550px;
+    border-radius: 16px;
+    background: lightgray 50% / cover no-repeat,  url('Images/Rectangle\ 4.png');
+}
+
+/* Destination styles */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
